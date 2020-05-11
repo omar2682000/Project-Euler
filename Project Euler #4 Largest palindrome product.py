@@ -13,7 +13,7 @@ def generate():
             if (isPalindrome(string2)):arr.append(i * j);
     arr.sort();
     return arr;
-    """This Function here uses a the first part of my Brute Force idea
+    """This Function here is built depending on the first part of my Brute Force idea
             to generate all possible solutions"""
 def find_answer(n , arr):
     for i in range(len(arr)):
