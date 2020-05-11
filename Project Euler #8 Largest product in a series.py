@@ -16,7 +16,7 @@ for t in range(int(input())):
         if pivot > answer : answer = pivot;
     print(answer)
 """
-Very boring problem, I used 2-Pointers techniqe in oreder to solve it,
+Very boring problem, I used 2-Pointers technique in oreder to solve it,
     nothing hard at all, no knowledge of math is required, just implement
     the techniqe and go ahead,,, I'm disappointed to be honest, it started 
     to become boring, hope harder problems are waiting for me.
